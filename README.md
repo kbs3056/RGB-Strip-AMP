@@ -10,4 +10,4 @@ All LED strips connected in one circuit should be powered by the same power supp
 
 See wiring diagram.
 
-https://github.com/kbs3056/RGB-Strip-AMP/blob/main/pcb.png
+![](IMG20200105231602.jpg)
