@@ -9,3 +9,5 @@ Amplifier needs an external 12V and GND supply lines.
 All LED strips connected in one circuit should be powered by the same power supply. (Input 12V and Output 12V rails are connected.)
 
 See wiring diagram.
+
+https://github.com/kbs3056/RGB-Strip-AMP/blob/main/pcb.png
