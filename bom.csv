@@ -1,0 +1,7 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 ,1,1u,Capacitor_SMD:C_0805_2012Metric,~
+C2 ,1,100n,Capacitor_SMD:C_0805_2012Metric,~
+D1 D2 D3 ,3,3V9,Diode_SMD:D_SOT-23_ANK,~
+Q1 Q3 Q5 ,3,MMBT3906,Package_TO_SOT_SMD:SOT-23,https://www.onsemi.com/pub/Collateral/2N3906-D.PDF
+Q2 Q4 Q6 ,3,AO3400A,Package_TO_SOT_SMD:SOT-23,http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf
+R1 R2 R3 R4 R5 R6 R7 R8 R9 ,9,4k7,Resistor_SMD:R_1206_3216Metric,~
